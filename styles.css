@@ -1,5 +1,5 @@
 body {
-    background-image: url('assets/background.png');
+    background-image: url('https://raw.githubusercontent.com/vffuunnyy/shikimori-style/main/assets/background.png');
     min-height: 100vh;
     background-position: center center;
     background-size: cover;
@@ -9,7 +9,7 @@ body {
 }
 
 .l-page {
-    background-image: url('/assets/inset-background.png');
+    background-image: url('https://raw.githubusercontent.com/vffuunnyy/shikimori-style/main/assets/inset-background.png');
     background-repeat: repeat;
     background-position: center center;
     background-attachment: scroll;
